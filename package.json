@@ -22,7 +22,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.11.0",
     "mocha": "^6.1.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "ramda": "^0.26.1"
   }
 }
